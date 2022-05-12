@@ -1,2 +1,2 @@
 Line0
-This is first commited file
+fethced from remote repository
